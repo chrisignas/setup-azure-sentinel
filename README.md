@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/sZVzrrQ" alt="Azure Sentinel Logo"/>
+<img src="https://i.imgur.com/sZVzrrQ" alt="Azure Sentinel Logo"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
