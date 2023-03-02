@@ -19,10 +19,12 @@ This tutorial outlines the implementation of a SIEM within Azure Virtual Machine
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Setup Resources in Azure
+- Allow all in Firewall
+- Create Log Analytics Workspace
+- Enable gathering VM logs in Security Center
+- Connect Log Analytics to VM
+- Setup Azure Sentinel
 
 <h2>Deployment and Configuration Steps</h2>
 
